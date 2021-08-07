@@ -14,7 +14,7 @@
 
 ## Frontend:
 
-- Programming Language: JavaScript,Html,Css 
+- Programming Language: JavaScript, HTML, CSS, Node.js.
 - IDE: VScode
 
 ## Backend:
