@@ -4,8 +4,9 @@
 
 # Description:
 
-- Create a room for chat App
-- Chat and enjoy with your friends.
+- It is a chatting app.
+- It has a option to create a room and ask friends to join with the room and chat with them that feature implemented using socket.io
+- It has a features like send a location.
 
 <img src="https://user-images.githubusercontent.com/64123398/128587400-3e898980-23d9-4334-b6d9-27acb51dd2c6.png" width="600px">
 
