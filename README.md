@@ -14,12 +14,12 @@
 
 ## Frontend:
 
-- Programming Language: JavaScript, HTML, CSS, Node.js.
+- Programming Language: JavaScript, HTML, CSS.
 - IDE: VScode
 
 ## Backend:
 
-- Socket.io
+- NodeJs,Socket.io
 
 ### Screenshots :
 
