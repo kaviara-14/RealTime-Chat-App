@@ -19,7 +19,7 @@
 
 ## Backend:
 
-- NodeJs,Socket.io
+- NodeJs, Socket.io
 
 ### Screenshots :
 
