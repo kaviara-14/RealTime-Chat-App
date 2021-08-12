@@ -1,12 +1,16 @@
 <h1 align="center">
-  RealTime-Chat-App
+ Chat App with multiple rooms
 </h1>
+
+This is a Socket.io based chat app with multiple rooms represented as groups. this app also allows you to share your location with your friends implemented using google API .
 
 # Description:
 
-- It is a chatting app.
-- It has a option to create a room and ask friends to join with the room and chat with them that feature implemented using socket.io
-- It has a features like send a location.
+- register with a username and group name
+- tell your friends to register with the same group name
+- and you are done ...
+
+now talk to your friends and share your location with them
 
 <img src="https://user-images.githubusercontent.com/64123398/128587400-3e898980-23d9-4334-b6d9-27acb51dd2c6.png" width="600px">
 
